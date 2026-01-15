@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "725245604497",
+    "project_id": "ai-stock-analyzer-ea263",
+    "storage_bucket": "ai-stock-analyzer-ea263.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725245604497:android:35ea8756712b731369c530",
+        "android_client_info": {
+          "package_name": "com.example.ai_stock_analyzer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtOBc8b4qFDgBx_pro6tqKkKFnxe-9XHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
